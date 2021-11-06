@@ -15,7 +15,6 @@ setuptools.setup(
 	author_email = 'kosovojs@gmail.com',
 	url = 'https://github.com/kosovojs/list_tools',
 	keywords = ['lists', 'split', 'chunk', 'helpers'],
-	packages=setuptools.find_packages(),
 	classifiers=[
 		'Development Status :: 3 - Alpha',
 		'Intended Audience :: Developers',

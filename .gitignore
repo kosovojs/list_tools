@@ -1,2 +1,4 @@
 __pycache__
 .pytest_cache
+list_tools.egg-info
+dist
